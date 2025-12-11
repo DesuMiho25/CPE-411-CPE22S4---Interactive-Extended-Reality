@@ -1,6 +1,6 @@
 # CPE-411-CPE22S4---Interactive-Extended-Reality
 # 💫 About Me:
-I'm currently learning HCI (Human and Computer interaction)<br><br>Im a CPE student <br><br>
+I'm currently learning HCI (Human and Computer interaction) with the goal of creating something cool with VR, and AR.<br><br>
 
 
 # 💻 Tech Stack:
